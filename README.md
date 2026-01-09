@@ -64,7 +64,7 @@ Customer-focused analysis:
 
 **4. Returns & Risk Analysis**
 
-![Returns & Risk Analysis](dashboard/screenshots/returns-risk-analysis)
+![Returns & Risk Analysis](dashboard/screenshots/returns-risk-analysis.jpg)
 
 Assessment of return-related risk:
 - return frequency and financial impact
