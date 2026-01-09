@@ -35,7 +35,7 @@ The Power BI dashboard consists of four analytical pages:
 
 
 ### Executive Overview
-![Executive Overview](dashboard/screenshots/Executive Overview.jpg)
+![Executive Overview](dashboard/screenshots/executive-overview.jpg)
 
 
 High-level view of business health, including:
@@ -46,7 +46,7 @@ High-level view of business health, including:
 
 **2. Sales & Time Performance**
 
-![Sales & Time Performance](dashboard/screenshots/Sales & Time Performance.jpg)
+![Sales & Time Performance](dashboard/screenshots/sales-time-performance.jpg)
 
 Analysis of revenue trends and growth drivers:
 - revenue and orders over time
@@ -55,7 +55,7 @@ Analysis of revenue trends and growth drivers:
 
 **3. Customer & Retention Insights**
 
-![Customer & Retention Insights](dashboard/screenshots/Customer & Retention Insights.jpg)
+![Customer & Retention Insights](dashboard/screenshots/customer-retention-insights.jpg)
 
 Customer-focused analysis:
 - customer base size and repeat rate
@@ -64,7 +64,7 @@ Customer-focused analysis:
 
 **4. Returns & Risk Analysis**
 
-![Returns & Risk Analysis](dashboard/screenshots/Returns & Risk Analysis.jpg)
+![Returns & Risk Analysis](dashboard/screenshots/returns-risk-analysis)
 
 Assessment of return-related risk:
 - return frequency and financial impact
